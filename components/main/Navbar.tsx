@@ -21,7 +21,7 @@ function Navbar() {
             height={50}
             className="cursor-pointer hover:animate-slowspin"
           />
-          <span className="font-bold ml-[10px] md:block text-white-100">
+          <span className="font-bold ml-[10px] md:block text-gray-100">
             Adrita Bhattacharjee
           </span>
         </a>
