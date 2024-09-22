@@ -52,7 +52,7 @@ import SkillText from "./sub/SkillText";
             />
           ))}
         </div>
-        <div className="flex flex-row justify-around flex-wrap mt-4 gap-5 items-center">
+        {/* <div className="flex flex-row justify-around flex-wrap mt-4 gap-5 items-center">
           {Full_stack.map((image, index) => (
             <SkillDataProvider
               key={index}
@@ -62,7 +62,7 @@ import SkillText from "./sub/SkillText";
               index={index}
             />
           ))}
-        </div>
+        </div> */}
         <div className="flex flex-row justify-around flex-wrap mt-4 gap-5 items-center">
           {Other_skill.map((image, index) => (
             <SkillDataProvider
