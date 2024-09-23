@@ -182,7 +182,6 @@
 
 // export default Footer;
 
-"use client"; // Ensures this is a Client Component in Next.js
 
 import React from 'react';
 import { FaYoutube } from 'react-icons/fa';
