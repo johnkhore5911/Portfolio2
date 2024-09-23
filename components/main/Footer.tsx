@@ -1,4 +1,4 @@
-"use client";
+
 // import React from "react";
 // import {
 //   RxDiscordLogo,
@@ -196,7 +196,7 @@ const Footer = () => {
           <div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
             <div className="font-bold text-[16px]">Community</div>
             <a
-              href="https://www.youtube.com"
+              href="https://www.youtube.com/@AdritaSings"
               target="_blank"
               rel="noopener noreferrer"
               className="flex flex-row items-center my-[15px] cursor-pointer"
@@ -205,7 +205,7 @@ const Footer = () => {
               <span className="text-[15px] ml-[6px]">Youtube</span>
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/Adrita12"
               target="_blank"
               rel="noopener noreferrer"
               className="flex flex-row items-center my-[15px] cursor-pointer"
@@ -213,7 +213,7 @@ const Footer = () => {
               <RxGithubLogo />
               <span className="text-[15px] ml-[6px]">Github</span>
             </a>
-            <a
+            {/* <a
               href="https://discord.com"
               target="_blank"
               rel="noopener noreferrer"
@@ -221,13 +221,13 @@ const Footer = () => {
             >
               <RxDiscordLogo />
               <span className="text-[15px] ml-[6px]">Discord</span>
-            </a>
+            </a> */}
           </div>
 
           {/* Social Media */}
           <div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
             <div className="font-bold text-[16px]">Social Media</div>
-            <a
+            {/* <a
               href="https://www.instagram.com"
               target="_blank"
               rel="noopener noreferrer"
@@ -244,9 +244,9 @@ const Footer = () => {
             >
               <RxGithubLogo />
               <span className="text-[15px] ml-[6px]">Twitter</span>
-            </a>
+            </a> */}
             <a
-              href="https://www.linkedin.com"
+              href="https://www.linkedin.com/in/adrita-bhattacharjee/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex flex-row items-center my-[15px] cursor-pointer"
