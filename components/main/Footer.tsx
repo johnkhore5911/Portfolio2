@@ -195,17 +195,15 @@ const Footer = () => {
           {/* Community */}
           <div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
             <div className="font-bold text-[16px]">Community</div>
-            <a
+            {/* <a
               href="https://www.youtube.com/@AdritaSings"
               target="_blank"
               rel="noopener noreferrer"
               className="flex flex-row items-center my-[15px] cursor-pointer"
             >
-              <FaYoutube />
-              <span className="text-[15px] ml-[6px]">Youtube</span>
-            </a>
+            </a> */}
             <a
-              href="https://github.com/Adrita12"
+              href="https://github.com/johnkhore5911"
               target="_blank"
               rel="noopener noreferrer"
               className="flex flex-row items-center my-[15px] cursor-pointer"
@@ -246,7 +244,7 @@ const Footer = () => {
               <span className="text-[15px] ml-[6px]">Twitter</span>
             </a> */}
             <a
-              href="https://www.linkedin.com/in/adrita-bhattacharjee/"
+              href="https://www.linkedin.com/in/john-khore-6b11471b9/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex flex-row items-center my-[15px] cursor-pointer"
@@ -260,10 +258,10 @@ const Footer = () => {
           <div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
             <div className="font-bold text-[16px]">About</div>
             <a
-              href="mailto:adubhattacharjee@gmail.com"
+              href="mailto:johnkhore26@gmail.com"
               className="flex flex-row items-center my-[15px] cursor-pointer"
             >
-              <span className="text-[15px] ml-[6px]">adubhattacharjee@gmail.com</span>
+              <span className="text-[15px] ml-[6px]">johnkhore26@gmail.com</span>
             </a>
           </div>
         </div>

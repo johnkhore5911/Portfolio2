@@ -29,7 +29,7 @@ const HeroContent = () => {
               {" "}
               I am{" "}
             </span>
-            Adrita Bhattacharjee
+            John
           </span>
         </motion.div>
         
@@ -65,7 +65,7 @@ const HeroContent = () => {
     className="Welcome-box py-[8px] px-[7px] border border-[#7042f88b] opacity-[0.9] flex items-center"
   >
     <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
-    <h1 className="Welcome-text text-[13px] text-[#b49bff]">AI/ML Enthusiast</h1>
+    <h1 className="Welcome-text text-[13px] text-[#b49bff]">React Native Developer</h1>
   </motion.div>
 </div>
 
@@ -76,7 +76,7 @@ const HeroContent = () => {
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
           I&apos;m a Full Stack Software Engineer with experience in Website,
-          Software and AI product development. Check out my projects and skills below.
+          Software and React Native Developer. Check out my projects and skills below.
         </motion.p>
         {/* <motion.a
           variants={slideInFromLeft(1)}
@@ -87,8 +87,8 @@ const HeroContent = () => {
         <motion.a
   variants={slideInFromLeft(1)}
   target="_blank"
-  href="https://drive.google.com/file/d/1D3wjt7SlmMlfvqd_WwuLtxEe5vhHdvTp/view?usp=sharing"  // Replace this with the actual path to your resume
-  download="Your-Resume.pdf"       // This specifies the name of the file to save as
+  href="https://drive.google.com/file/d/1oA6iDIwRDQXDTFX4cSBpUU9euVGPG86X/view?usp=sharing"
+  download="john-Resume.pdf"     
   className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
 >
   Download Resume

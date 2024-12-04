@@ -18,7 +18,7 @@ const geistSans = localFont({
 // });
 
 export const metadata: Metadata = {
-  title: "Adrita's Portfolio",
+  title: "John's Portfolio",
   description: "This is my portfolio",
 };
 

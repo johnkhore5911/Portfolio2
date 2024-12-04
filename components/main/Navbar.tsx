@@ -22,7 +22,7 @@ function Navbar() {
             className="cursor-pointer hover:animate-slowspin"
           />
           <span className="font-bold ml-[10px] md:block text-gray-100">
-            Adrita Bhattacharjee
+            John
           </span>
         </a>
 
